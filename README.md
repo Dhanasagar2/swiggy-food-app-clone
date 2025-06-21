@@ -12,14 +12,14 @@ hello hello react
 -Restaurent Container
 -Restaurent cards
 -image, name of restaurent, Star rating, cuisines, delivery time.  
-\*Footer
-
+\
+*Footer
 - -Copy right
   -Links
   -Address
   -Contact
-  \*/
-  full understanding of the code structire fow is
+  \*
+  /full understanding of the code structure flow is
 
 "Home Page
 │
@@ -51,8 +51,7 @@ hello hello react
 
 -unit testing
 -integration testing
-
-- end to end testing ot (e2e) testing
+-end to end testing or (e2e) testing
 
 # setting up testing in our app
 
